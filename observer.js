@@ -35,3 +35,5 @@ class Observer {
     });
   }
 }
+
+console.log('emergency-fix');
