@@ -37,3 +37,4 @@ class Observer {
 }
 
 console.log('emergency-fix');
+console.log('test');
